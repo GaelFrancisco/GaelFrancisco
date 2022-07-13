@@ -2,4 +2,4 @@
 - 👀 I’m interested in Web programming
 - 🌱 I’m currently learning js, css, python
 - 💞️ I’m looking to collaborate on the creation of websites from the backend part and a little from the frontend
-- 📫 Find me at @Gaelfcoo or gaelfranciscom.47@gmail.com
+- 📫 Find me at Twitter @Gaelfcoo or gaelfranciscom.47@gmail.com
